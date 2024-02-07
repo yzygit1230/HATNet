@@ -1,5 +1,5 @@
-# CAGNet
-* The pytorch implementation for CAGNet in paper "Hybrid Attention-aware Transformer Network Collaborative Multiscale Feature Alignment for Building Change Detection".
+# HATNet
+* The pytorch implementation for HATNet in paper "Hybrid Attention-aware Transformer Network Collaborative Multiscale Feature Alignment for Building Change Detection".
 
 # Requirements
 * Python 3.6
