@@ -1,5 +1,6 @@
 # HATNet
 * The pytorch implementation for HATNet in paper "Hybrid Attention-aware Transformer Network Collaborative Multiscale Feature Alignment for Building Change Detection".
+* C. Xu et al., "Hybrid Attention-Aware Transformer Network Collaborative Multiscale Feature Alignment for Building Change Detection," in IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-14, 2024, doi: 10.1109/TIM.2024.3373089.
 
 # Requirements
 * Python 3.6
