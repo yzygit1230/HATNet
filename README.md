@@ -1,6 +1,5 @@
 # HATNet
 * The pytorch implementation for HATNet in paper "Hybrid Attention-aware Transformer Network Collaborative Multiscale Feature Alignment for Building Change Detection".
-* C. Xu et al., "Hybrid Attention-Aware Transformer Network Collaborative Multiscale Feature Alignment for Building Change Detection," in IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-14, 2024, doi: 10.1109/TIM.2024.3373089.
 
 # Requirements
 * Python 3.6
@@ -43,6 +42,7 @@ where A contains pre-temporal images, B contains post-temporal images, and OUT c
 * python visualization visualization.py --ckp-paths weight-path --dataset-dir dataset-path (Note that batch-size must be 1 when using visualization.py)
 * Besides, you can adjust the parameter of full_to_color to change the color
 
+# If this work is helpful to you, please cite it as:
 ```
 @article{xu2024hybrid,
   title={Hybrid Attention-Aware Transformer Network Collaborative Multiscale Feature Alignment for Building Change Detection},
