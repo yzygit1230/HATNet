@@ -42,3 +42,15 @@ where A contains pre-temporal images, B contains post-temporal images, and OUT c
 # Visualization
 * python visualization visualization.py --ckp-paths weight-path --dataset-dir dataset-path (Note that batch-size must be 1 when using visualization.py)
 * Besides, you can adjust the parameter of full_to_color to change the color
+
+```
+@article{xu2024hybrid,
+  title={Hybrid Attention-Aware Transformer Network Collaborative Multiscale Feature Alignment for Building Change Detection},
+  author={Xu, Chuan and Ye, Zhaoyi and Mei, Liye and Yu, Haonan and Liu, Jianchen and Yalikun, Yaxiaer and Jin, Shuangtong and Liu, Sheng and Yang, Wei and Lei, Cheng},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={73},
+  pages={1--14},
+  year={2024},
+  publisher={IEEE}
+}
+```
